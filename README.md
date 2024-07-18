@@ -31,6 +31,7 @@ The following filters are available to interact with the visualizations:
 - **Education**
 
 ## Dashboard
+![Customer Personality Analysis](https://github.com/user-attachments/assets/24a12d7a-6c80-423b-ad98-6ba80caf6486)
 
 
  
